@@ -208,18 +208,23 @@ The solution comprises **five interconnected dashboards**, each serving a distin
 
 ### Dashboard 1: Executive Summary
 Provides a top-level view of organizational performance with KPI cards for Total Revenue ($2.94M), Total Transactions (30,547), Total Customers (100,000), and Average Order Value ($96.20). Includes time-series revenue trends and MoM/YoY growth indicators across all major metrics.
+![alt text](image.png)
 
 ### Dashboard 2: Customer Analytics
 Segments customers by demographics (age, gender, country), loyalty tier, and premium status. Highlights the 41.2% repeat purchase rate, CLV by segment, and acquisition channel effectiveness. Key visual: Premium vs. Standard AOV comparison ($147 vs. $44).
+![alt text](image-1.png)
 
 ### Dashboard 3: Product Performance
 Analyzes the 2,000-product catalog by category, brand, and premium status. Reveals Electronics dominance (41% of revenue) and the 77% revenue contribution from premium products. Includes discount impact analysis showing minimal (4.13%) price erosion.
+![alt text](image-2.png)
 
 ### Dashboard 4: Campaign Performance
 Tracks 50 campaigns across 5 channels and multiple objectives. Surfaces the Affiliate channel as the top performer ($1.7M) and Reactivation as the highest-ROI objective ($2.07M). Includes refund quality metrics and conversion rate trends by quarter.
+![alt text](image-3.png)
 
 ### Dashboard 5: A/B Testing Experiment
 Validates website optimization experiments across 9,912 sessions. Uses a waterfall chart for lift visualization, 100% stacked columns for device distribution (randomization check), and a statistical significance table. Recommends **Variant B** implementation with +21.1% lift.
+![alt text](image-4.png)
 
 ---
 
@@ -313,24 +318,13 @@ Include the following images in the `/screenshots/` folder to showcase your work
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] **Predictive Revenue Forecasting** — Integrate a time-series forecasting model (ARIMA or Prophet) to project monthly revenue 3–6 months forward
-- [ ] **Customer Churn Prediction** — Build a logistic regression or gradient boosting model to identify at-risk customers before they lapse
-- [ ] **Real-Time Data Pipeline** — Replace static Excel source with a live SQL or API connection for automated daily refresh
-- [ ] **Power BI Service Deployment** — Publish dashboards to Power BI Service with scheduled refresh and role-level security (RLS)
-- [ ] **Attribution Modeling** — Implement multi-touch attribution to more accurately credit customer journeys spanning multiple campaigns
-- [ ] **Python Integration** — Add Python visuals within Power BI for advanced statistical plots (correlation heatmaps, distribution charts)
-- [ ] **Natural Language Q&A** — Enable Power BI Q&A feature with custom synonyms for non-technical stakeholder self-service
-
----
 
 ## 👤 Author
 
 **Akileshwaran S**  
 Data Analyst | Power BI | SQL | Python | Excel  
 📧 [your.email@example.com]  
-🔗 [LinkedIn Profile URL]  
+🔗 [www.linkedin.com/in/akileshwarans]  
 🌐 [Portfolio URL]
 
 ---
